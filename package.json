@@ -1,0 +1,23 @@
+{
+  "name": "tencent-cmq",
+  "version": "1.0.1",
+  "description": "tencent CQM ",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap ./test/index.js"
+  },
+  "keywords": [
+    "tencent",
+    "CMQ"
+  ],
+  "author": "aedan.li",
+  "license": "ISC",
+  "dependencies": {
+    "querystring": "^0.2.0",
+    "request": "^2.87.0"
+  },
+  "devDependencies": {
+    "@types/node": "^10.3.4",
+    "tap": "^12.0.1"
+  }
+}
