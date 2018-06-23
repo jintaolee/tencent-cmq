@@ -8,7 +8,7 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
     });
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-const common_1 = require("../common");
+const common_1 = require("./common");
 class CMQ {
     /**
     * 实例化client对象

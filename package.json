@@ -1,8 +1,9 @@
 {
   "name": "tencent-cmq",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "tencent CQM ",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "tap ./test/index.js"
   },
@@ -19,5 +20,9 @@
   "devDependencies": {
     "@types/node": "^10.3.4",
     "tap": "^12.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:aedanlee/tencent-cmq.git"
   }
 }

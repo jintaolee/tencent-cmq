@@ -12,6 +12,6 @@
         "stripInternal": true
     },
     "files": [
-        "lib/index.ts"
+        "./index.ts"
     ]
 }

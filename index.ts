@@ -1,4 +1,4 @@
-import { AbstractClient, Credential, ClientProfile } from '../common';
+import { AbstractClient, Credential, ClientProfile } from './common';
 
 export interface SendMessageResponse {
     code: number;

@@ -1,0 +1,4 @@
+.git
+common/*.ts
+node_modules/*
+tsconfig.json

@@ -1,5 +1,5 @@
 var test = require('tap').test;
-var cmq = require('../lib');
+var cmq = require('../index');
 
 test('test send  message', async function (t) {
     try {
