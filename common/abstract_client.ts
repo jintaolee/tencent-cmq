@@ -25,7 +25,7 @@ export class AbstractClient {
      * @param {ClientProfile} profile 可选配置实例
      */
     constructor(endpoint: string, version: string, credential: Credential, region: string, profile?: ClientProfile) {
-        this.path = "/";
+        this.path = "/v2/index.php";
 
         /**
          * 认证信息实例
